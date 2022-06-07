@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-Olá...
+Sou estudante de Odontologia e no meu tempo livre estudo e faço projetos em Python, atualmente estou focando meus estudos em data science.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
