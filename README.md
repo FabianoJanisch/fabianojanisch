@@ -1,6 +1,6 @@
 ### Olá pessoal 👋
 
-Sou estudante de Odontologia e no meu tempo livre estudo e faço projetos em Python, atualmente estou focando meus estudos em data science.
+Sou estudante de Odontologia e no meu tempo livre estudo e faço projetos em Python e Dart. Atualmente estou focando meus estudos no framework Flutter.
 
 <h2> Atualmente aprendendo </h2>
 
