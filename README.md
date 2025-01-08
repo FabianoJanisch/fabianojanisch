@@ -1,6 +1,6 @@
-### Olá pessoal 👋
+### Hello, everyone! 👋
 
-Sou estudante de Odontologia e no meu tempo livre estudo e faço projetos em Python e Dart. Atualmente estou focando meus estudos no framework Flutter.
+I graduated in Dentistry, and in my free time, I study and work on projects using Python and Dart. Currently, I'm focusing on learning and improving my skills with the Flutter framework.
 
 <h2> Atualmente aprendendo </h2>
 
